@@ -3,7 +3,8 @@ Complete Specification
 1. TITLE
 Pole Structured Intelligent Pest and Fertilizer Monitoring System Using IoT and Multi-Sensor Environmental Analysis.
 
-2. BACKGROUND OF THE INVENTION
+2. BACKGROUND OF THE INVENTION:
+
 Agriculture plays a vital role in global food production and economic development. However, modern farming faces several challenges including pest infestation, excessive fertilizer usage, declining crop productivity, environmental imbalance, and lack of continuous field monitoring systems. Traditional agricultural monitoring methods mainly depend on manual inspection and periodic observation, which are labour intensive, time-consuming, and often ineffective for large-scale farming applications.
 Environmental factors such as soil moisture, temperature, humidity, gas concentration, and light intensity directly influence crop growth, fertilizer requirements, and pest development. Improper monitoring of these parameters can lead to delayed pest detection, excessive fertilizer application, crop damage, reduced yield, and financial losses for farmers.
 Conventional farming systems generally lack intelligent monitoring capabilities and are unable to provide real-time analysis or automated recommendations. Existing agricultural monitoring solutions often focus on only a single function such as irrigation monitoring, pest detection, or fertilizer management, without integrating multiple environmental parameters into a unified intelligent framework.
@@ -76,7 +77,6 @@ The processed data is transmitted through Wi-Fi communication to a cloud monitor
 The system continuously evaluates environmental conditions to detect abnormalities related to pests and fertilizer deficiencies.
 
 3.5 Intelligent Prediction Module
-
 The intelligent prediction module analyses sensor data using environmental threshold logic and machine learning techniques.
 The system performs:
 •	Pest prediction 
