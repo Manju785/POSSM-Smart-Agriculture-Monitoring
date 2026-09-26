@@ -1,6 +1,7 @@
 Complete Specification
 
-1. TITLE
+1. TITLE:
+   
 Pole Structured Intelligent Pest and Fertilizer Monitoring System Using IoT and Multi-Sensor Environmental Analysis.
 
 2. BACKGROUND OF THE INVENTION:
